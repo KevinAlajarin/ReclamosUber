@@ -1,0 +1,49 @@
+header {
+    background-color: black;
+}
+
+h1 {
+    font-size: 24px;
+    color: white;
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px;
+}
+
+section {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    background-color: #f8f9fa;
+}
+
+section h2 {
+    margin-bottom: 1.25rem;
+    text-align: center;
+}
+
+section p {
+    font-size: 18px;
+}
+
+form {
+    max-width: 500px;
+    margin: auto;
+}
+
+.formulario {
+    margin-bottom: 20px;
+}
+
+textarea.form-control {
+    resize: vertical;
+}
+
+footer {
+    margin-top: 50px;
+    color: #fff;
+    background-color: black;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
